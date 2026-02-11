@@ -23,6 +23,7 @@ npm install
 ng serve
 ```
 
+
 ## Building
 
 Para construir el proyecto ejecute:
@@ -32,3 +33,13 @@ ng build
 ```
 
 Esto compilará tu proyecto y almacenará los artefactos de compilación en el directorio `dist/`. De forma predeterminada, la compilación de producción optimiza el rendimiento y la velocidad de tu aplicación.
+
+
+## Que debo hacer para usar en mi proyecto?
+- Copiar el contenido de la carpeta src/app/ en mi proyecto.
+- Copiar el contenido de la carpeta src/assets/ en mi proyecto.
+- Copiar el contenido de app.config.ts en mi proyecto.
+- Copiar el contenido de app.route.ts en mi proyecto.
+- Copiar el contenido de app.component.ts en mi proyecto.
+- Copiar y reemplazar el contenido del package.json.
+- Copiar  el archivo .postcssrc.json  a la raiz del proyecto.
