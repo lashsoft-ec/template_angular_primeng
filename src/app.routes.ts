@@ -2,7 +2,7 @@ import { Routes } from '@angular/router';
 import { AppLayout } from '@/app/shared/layout/component/app.layout';
 import { Dashboard } from './app/pages/dashboard/dashboard';
 import { Landing } from './app/pages/landing/landing';
-import { Notfound } from './app/pages/notfound/notfound';
+import { Notfound } from './app/modules/auth/page/notfound';
 
 export const appRoutes: Routes = [
     {
